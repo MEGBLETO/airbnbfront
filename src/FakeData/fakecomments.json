@@ -1,0 +1,62 @@
+[
+    {
+       "name":"Sophie",
+       "comment":"This place was fantastic! The location was perfect and the apartment was so cozy. We loved every minute of our stay and would definitely recommend it to others.",
+       "picture":"https://randomuser.me/api/portraits/women/75.jpg",
+       "date":"October 2019"
+    },
+    {
+       "name":"John",
+       "comment":"Great stay at this Airbnb. The host was super friendly and responsive. The place was clean and comfortable. Highly recommend!",
+       " picture":"https://randomuser.me/api/portraits/women/76.jpg",
+       "date":"May 2020"
+    },
+    {
+       "name":"Emma",
+       "comment":"I had an amazing time at this Airbnb. The views were stunning and the decor was so stylish. I would definitely stay here again!",
+       "picture":"https://randomuser.me/api/portraits/women/77.jpg",
+       "date":"September 2019"
+    },
+    {
+       "name":"Michael",
+       "comment":"This Airbnb was just what we needed for our trip. The location was convenient and the host was very accommodating. Would definitely book again!",
+       "picture":"https://randomuser.me/api/portraits/men/78.jpg",
+       "date":"April 2020"
+    },
+    {
+       "name":"Olivia",
+       "comment":"Great experience at this Airbnb. The place was clean and had all the amenities we needed. The host was also very helpful and gave us great recommendations for the area.",
+       " picture":"https://randomuser.me/api/portraits/women/79.jpg",
+       "date":"March 2020"
+    },
+    {
+       "name":"William",
+       "comment":"This was my first time using Airbnb and it was a great experience. The place was exactly as described and the host was very friendly. Would definitely use Airbnb again!",
+       " picture":"https://randomuser.me/api/portraits/men/70.jpg",
+       "date":"July 2020"
+    },
+    {
+       "name":"Isabella",
+       "comment":"This Airbnb was perfect for our trip. The location was great and the host was very responsive. Would definitely recommend to others!",
+       " picture":"https://randomuser.me/api/portraits/women/76.jpg",
+       "date":"January 2020"
+    },
+    {
+       "name":"James",
+       "comment":"We had a great time at this Airbnb. The place was clean and comfortable. The host was also very helpful with recommendations for the area.",
+       "picture":"https://i.imgur.com/tKdOeZw.jpg",
+       "date":"December 2019"
+    },
+    {
+       "name":"Mia",
+       "comment":"This Airbnb was exactly what we were looking for. The location was great and the place was very comfortable. Would definitely stay here again!",
+       " picture":"https://randomuser.me/api/portraits/women/76.jpg",
+       "date":"November 2019"
+    },
+    {
+       "name":"James",
+       "comment":"We had a great time at this Airbnb. The place was clean and comfortable. The host was also very helpful with recommendations for the area.",
+       "picture":"https://i.imgur.com/tKdOeZw.jpg",
+       "date":"March 2020"
+    }
+ ]
